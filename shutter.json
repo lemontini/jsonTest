@@ -1,0 +1,17 @@
+{
+    "shutter": {
+        "state": 4,
+        "currentPos": {
+            "position": 0,
+            "tilt": -1
+        },
+        "desiredPos": {
+            "position": 50,
+            "tilt": -1
+        },
+        "favPos": {
+            "position": 13,
+            "tilt": -1
+        }
+    }
+}
